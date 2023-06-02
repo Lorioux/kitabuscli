@@ -1,0 +1,15 @@
+**/.terraform
+**/.terraform.lock.hcl
+**/*.tfstate
+.vscode
+
+*ix.net
+.discovery
+**/.kitabus
+**/.catalogus
+**/kitabus
+**/*.work
+**/*.work.sum
+**/*.tf
+
+vendor/
