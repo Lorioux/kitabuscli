@@ -705,4 +705,3 @@ google.golang.org/protobuf/types/known/fieldmaskpb
 google.golang.org/protobuf/types/known/structpb
 google.golang.org/protobuf/types/known/timestamppb
 google.golang.org/protobuf/types/known/wrapperspb
-# github.com/lorioux/google-provider/google v0.0.0 => github.com/hashicorp/terraform-provider-google v1.20.0
