@@ -4,9 +4,9 @@ go 1.20
 
 require github.com/lorioux/kitabus v0.0.0
 
-replace github.com/lorioux/google-provider/google v0.0.0 => github.com/hashicorp/terraform-provider-google v1.20.0
+// replace github.com/lorioux/google-provider/google v0.0.0 => github.com/hashicorp/terraform-provider-google v1.20.0
 
-exclude github.com/hashicorp/terraform-provider-google/terraform/terraform v1.0.0
+// exclude github.com/hashicorp/terraform-provider-google/terraform/terraform v1.0.0
 
 require (
 	bitbucket.org/creachadair/stringset v0.0.8 // indirect
